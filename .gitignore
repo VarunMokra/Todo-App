@@ -1,0 +1,17 @@
+# Node modules (Frontend)
+frontend/node_modules/
+
+# Python virtual environment (Backend)
+backend/venv/
+
+# Environment files
+**/.env
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# VSCode settings or other editors
+.vscode/
+.idea/
+.DS_Store
